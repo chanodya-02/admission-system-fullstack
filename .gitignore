@@ -1,0 +1,21 @@
+# Python
+venv/
+backend/venv/
+__pycache__/
+*.pyc
+
+# Django
+db.sqlite3
+media/
+
+# Node
+node_modules/
+.next/
+out/
+
+# Env
+.env
+.env.local
+
+# OS
+.DS_Store
