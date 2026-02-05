@@ -1,6 +1,3 @@
-
-# admission-system-fullstack
-
 # School Online Admission System (Full Stack)
 
 Full-stack web application built with **Django REST API (MySQL)** and **Next.js + shadcn UI**.
@@ -36,4 +33,3 @@ admission-system-fullstack/
   frontend/
   LLM_CHAT_HISTORY.md
   README.md
- 7128218 (Final submission: Django + Next.js admission system)
